@@ -63,3 +63,4 @@ if __name__ == "__main__":
 
         print("Ratio %s" % getRatio(price, price))
             prices[stock]=price
+        print("Ratio %s" % (getRatio(prices["ABC]"], prices["DEF"])))
